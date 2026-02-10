@@ -1,0 +1,10 @@
+{"event_id":"EVT_001","order_id":"ORD_001","customer_id":"CUST_01","status":"CREATED","amount":100.00,"currency":"EUR","updated_at":"2024-01-10T09:15:00"}
+{"event_id":"EVT_002","order_id":"ORD_002","customer_id":"CUST_02","status":"CREATED","amount":59.90,"currency":"EUR","updated_at":"2024-01-10T09:20:00"}
+{"event_id":"EVT_003","order_id":"ORD_001","customer_id":"CUST_01","status":"PAID","amount":100.00,"currency":"EUR","updated_at":"2024-01-10T09:17:00"}
+{"event_id":"EVT_004","order_id":"ORD_003","customer_id":"CUST_03","status":"CREATED","amount":250.00,"currency":"EUR","updated_at":"2024-01-10T09:30:00"}
+{"event_id":"EVT_005","order_id":"ORD_002","customer_id":"CUST_02","status":"CANCELLED","amount":59.90,"currency":"EUR","updated_at":"2024-01-10T09:35:00"}
+{"event_id":"EVT_006","order_id":"ORD_001","customer_id":"CUST_01","status":"SHIPPED","amount":120.50,"currency":"EUR","updated_at":"2024-01-10T12:45:00"}
+{"event_id":"EVT_007","order_id":"ORD_004","customer_id":"CUST_04","status":"CREATED","amount":15.99,"currency":"EUR","updated_at":"2024-01-10T13:05:00"}
+{"event_id":"EVT_008","order_id":"ORD_003","customer_id":"CUST_03","status":"PAID","amount":250.00,"currency":"EUR","updated_at":"2024-01-10T13:10:00"}
+{"event_id":"EVT_009","order_id":"ORD_003","customer_id":"CUST_03","status":"SHIPPED","amount":250.00,"currency":"EUR","updated_at":"2024-01-10T15:00:00"}
+{"event_id":"EVT_010","order_id":"ORD_004","customer_id":"CUST_04","status":"CANCELLED","amount":15.99,"currency":"EUR","updated_at":"2024-01-10T13:30:00"}
